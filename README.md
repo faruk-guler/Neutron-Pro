@@ -1,2 +1,2 @@
 # Neutron Pro
-# /Go
+# Golang
